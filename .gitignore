@@ -34,3 +34,8 @@ build/
 
 ### MacOS ###
 .DS_store
+
+# Claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
